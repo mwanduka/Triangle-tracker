@@ -9,7 +9,7 @@ if((side1 >= side2+side3)||(side2 >= side1+side3)||(side3 >= side2+side1)){
     } else if(equilateral(side1,side2,side3)===true){
       ("#typeoftriangle").text("an equilateral");
       alert(equilateral);
-    } else if(isoceles(side1,side2,side3)===true){
+    } else if(isoceles(side1, side2, side3)===true){
       ("#typeoftriangle").text("an isoceles");
       alert(isoceles);
     } else {
