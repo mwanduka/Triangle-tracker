@@ -16,6 +16,7 @@ Add the same process applies for the other triangle types
 ## Known Bugs
 Inclusion none digits in the application such as letters.
 ## Technologies Used
+Javascript
 HTML
 CSS
 JS
