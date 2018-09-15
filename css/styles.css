@@ -1,0 +1,12 @@
+.btn{
+  display: block;
+}
+#project{
+  display:none
+}
+*{
+  margin:5px;
+  border:2px solid green;
+  float:center;
+  padding:10px;
+}
