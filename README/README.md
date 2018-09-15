@@ -1,6 +1,6 @@
 # Triangle Tracker
 #### Determining the type of triangle, 14th, September 2018
-#### By **Mwanduka, Stephen, Mauta, Emmanuel, Hope**
+#### By **Mwanduka Stephen**
 ## Description
 This is to enable the user to know the type of triangle, no skills required.
 ## BDD
