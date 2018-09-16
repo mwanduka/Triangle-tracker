@@ -1,5 +1,7 @@
 # Triangle Tracker
 #### Determining the type of triangle, 14th, September 2018
+# Triangle Tracker
+#### Determining the type of triangle updated on 14th, September 2018
 #### By **Mwanduka Stephen**
 ## Description
 This is to enable the user to know the type of triangle, no skills required.
@@ -22,7 +24,7 @@ CSS
 JS
 ## Support and contact details
 E-mail address:mwandukastephen20@gmail.com
-Tellophone number:0702615031
+Cellophone number:0702615031
 ### License
 
 MIT License
