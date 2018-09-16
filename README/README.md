@@ -1,6 +1,6 @@
 # Triangle Tracker
 #### Determining the type of triangle, 14th, September 2018
-#### By **Mwanduka, Stephen, Mauta, Emmanuel, Hope**
+#### By **Mwanduka Stephen**
 ## Description
 This is to enable the user to know the type of triangle, no skills required.
 ## BDD
@@ -27,8 +27,6 @@ Tellophone number:0702615031
 
 MIT License
 
-Copyright (c) 2018 mwanduka
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -46,4 +44,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Copyright (c) {year} **Mwanduka**
+Copyright (c) 2018 **Mwanduka**
