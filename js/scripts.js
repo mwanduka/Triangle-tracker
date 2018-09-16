@@ -31,4 +31,3 @@ if((side1 >= side2+side3)||(side2 >= side1+side3)||(side3 >= side2+side1)){
     prompt("#finalized").text(triangleType);
     ('#output').show();
       });
-
