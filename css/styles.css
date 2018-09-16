@@ -1,12 +1,8 @@
-.btn{
-  display: block;
-}
-#project{
-  display:none
-}
 *{
   margin:5px;
-  border:2px solid green;
-  float:center;
+  float:;
   padding:10px;
+}
+.container{
+color:blue:
 }
