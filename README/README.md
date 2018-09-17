@@ -1,23 +1,18 @@
 # Triangle Tracker
 #### Determining the type of triangle, 14th, September 2018
-# Triangle Tracker
-#### Determining the type of triangle updated on 14th, September 2018
 #### By **Mwanduka Stephen**
 ## Description
 This is to enable the user to know the type of triangle, no skills required.
 https://github.com/mwanduka/triangle-tracker.git
 ## BDD
-Having a triangle tracker, below is the process of determining the type of triangle.
 
-The outcome of triangle tracker is to find out the type of triangle to be displayed when one enters some digits.
+|Behaviour               |  Input        |Output     |
+|------------------------|:-------------:|----------:|
+|All sides are equal     |12 by 12 by 12 |Equilateral|
+|Exactly 2sides are equal|12 by 10 by 10 |Isosceles  |
+|No side equal          | 10 by 12 by 11 |Scalene    |
 
-Given all sides are equal
-When one enters digits
-And find out the request
-Then a equilateral triangle is tracked
-Add the same process applies for the other triangle types
-## Known Bugs
-Inclusion none digits in the application such as letters.
+
 ## Technologies Used
 Javascript
 HTML
@@ -25,7 +20,7 @@ CSS
 JS
 ## Support and contact details
 E-mail address:mwandukastephen20@gmail.com
-Cellophone number:0702615031
+Tellophone number:0702615031
 ### License
 
 MIT License
