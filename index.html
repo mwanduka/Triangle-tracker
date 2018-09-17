@@ -2,29 +2,23 @@
 <html>
   <head>
     <title>Triangle Tracker</title>
-    <link href="/home/moringaschool/Triangle/css/styles.css" rel="stylesheet" type="text/css">
-    <script  src="js/scripts."></script>
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
   </head>
   <body>
      <div class="container">
-       <h1>Triangle Tracker</h1>
-       <h2>Please enter digits</h2>
-       <div class="display">
-         <div id="triangle">
-             <label for="side1">First Side:</label>
-             <input id="side1" class="display" type="text">
-           </div>
-           <div class="display">
-             <label for="side2">Second Side:</label>
-             <input id="side2" class="display" type="text">
-           </div>
-           <div class="display">
-             <label for="side3">Third Side:</label>
-             <input id="side3" class="display" type="text">
-           </div>
-           <input type="submit" name="button" id="submit" onclick="triangle"();" value="Find out!">
-           <input type="button" id="reset" value="reload" onclick="reload()">
-           <div id="reset">
+       <script  src="js/scripts.js" type="text/javascript"></script>
+       <div id="test">
+       <h1>Triangle Tracker</h>
+       <form id="triangle">
+             <p>Enter the values of the triangle:</p>
+              <input type="number" id="side1" name="side1"><br>
+              <input type="number" id="side2" name="side2"><br>
+              <input type="number" id="side3" name="side3"><br>
+              <input type="button" id="submit" onclick="triangles()" value="Find out!">
+              <input type="button" id="reset" value="Reload" onclick="reload()">
+              <div id="reset">
+             <p id="result"></p>
      </div>
+   </div>
   </body>
  </html>
