@@ -5,17 +5,16 @@
 This is to enable the user to know the type of triangle, no skills required.
 https://github.com/mwanduka/triangle-tracker.git
 ## BDD
-Having a triangle tracker, below is the process of determining the type of triangle.
 
-The outcome of triangle tracker is to find out the type of triangle to be displayed when one enters some digits.
+|Behaviour     |  Input        |Output     |
+|--------------|:-------------:|----------:|
+|All sides are |12 by 12 by 12 |Equilateral|
+| equal        |               |           |
+|Exactly 2sides|12 by 10 by 10 |Isosceles  |
+|are equal     |               |           |
+|No side       | 10 by 12 by 11|Scalene    |
+|equal         |               |           |
 
-Given all sides are equal
-When one enters digits
-And find out the request
-Then a equilateral triangle is tracked
-Add the same process applies for the other triangle types
-## Known Bugs
-Inclusion none digits in the application such as letters.
 ## Technologies Used
 Javascript
 HTML
