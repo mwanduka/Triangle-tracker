@@ -6,14 +6,12 @@ This is to enable the user to know the type of triangle, no skills required.
 https://github.com/mwanduka/triangle-tracker.git
 ## BDD
 
-|Behaviour     |  Input        |Output     |
-|--------------|:-------------:|----------:|
-|All sides are |12 by 12 by 12 |Equilateral|
-| equal        |               |           |
-|Exactly 2sides|12 by 10 by 10 |Isosceles  |
-|are equal     |               |           |
-|No side       | 10 by 12 by 11|Scalene    |
-|equal         |               |           |
+|Behaviour               |  Input        |Output     |
+|------------------------|:-------------:|----------:|
+|All sides are equal     |12 by 12 by 12 |Equilateral|
+|Exactly 2sides are equal|12 by 10 by 10 |Isosceles  |
+|No side equal          | 10 by 12 by 11 |Scalene    |
+
 
 ## Technologies Used
 Javascript
