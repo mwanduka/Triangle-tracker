@@ -3,6 +3,7 @@
 #### By **Mwanduka Stephen**
 ## Description
 This is to enable the user to know the type of triangle, no skills required.
+https://github.com/mwanduka/triangle-tracker.git
 ## BDD
 Having a triangle tracker, below is the process of determining the type of triangle.
 
